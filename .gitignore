@@ -1,0 +1,13 @@
+# Ignore virtualenv
+/.env
+
+# Ignore PyCharm files
+/.idea
+*.iml
+
+# Ignore collectstatic output
+/static
+
+*.sqlite3
+
+*.pyc
